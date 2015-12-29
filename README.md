@@ -217,6 +217,7 @@ velocity organizations, born from the experiences of its practitioners.
 * [Matthew Walter](https://github.com/ohaiwalt)
 * [Chris McFee](https://github.com/mickfeech)
 * [Ryan Morten](https://github.com/awesinine)
+* [Ken Pacileo] (https://github.com/kpac062)
 
 ## License
 
